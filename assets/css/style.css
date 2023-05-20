@@ -474,6 +474,9 @@ section {
     .profile-content {
         width: 235px;
     }
+    .pictures .fa {
+        margin: 0;
+    }
 }
 @media (max-width: 700px) {
     .cont {
