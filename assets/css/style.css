@@ -479,6 +479,10 @@ section {
     .cont {
         left: 40%;
     }
+    .pictures {
+        width: 90px;
+        height: 70px;
+    }
 }
 
 
